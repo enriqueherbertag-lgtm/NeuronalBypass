@@ -3,7 +3,7 @@
 [![AI Assistance](https://img.shields.io/badge/AI%20Assistance-DeepSeek-brightgreen)](https://deepseek.com)
 [![DOI](https://img.shields.io/badge/DOI-pending-blue)]()
 
-# NeuralBypass: non-invasive neuronal bypass for spinal cord injuries
+# Non-invasive neuronal bypass for spinal cord injuries
 
 **Intention recognition (EEG) + muscle stimulation (FES/tSCS). No brain surgery. No external batteries.**
 
