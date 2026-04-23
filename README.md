@@ -39,7 +39,8 @@ Leer la intención del paciente (aunque la señal sea débil), reconocer el patr
 
 ## Documentación
 
-- [`Bypass-neuronal.md`](./Bypass-neuronal.md): documento completo (principio, implementación, referencias).
+- [`Bypass-neuronal.md`](./NeuralBypass.md): documento completo (principio, implementación, referencias).
+- [`Bypass-neuronal.md`](./NeuralBypass.en.md): documento completo (principio, implementación, referencias "Ingles").
 - [`docs/implementacion.md`](./docs/implementacion.md): dispositivos concretos, comunicación, alimentación.
 - [`docs/entrenamiento.md`](./docs/entrenamiento.md): cómo se entrena el modelo con voluntarios sanos.
 - [`docs/seguridad_vital.md`](./docs/seguridad_vital.md): protocolo de emergencia.
