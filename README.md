@@ -4,7 +4,7 @@
 [![DOI](https://img.shields.io/badge/DOI-pending-blue)]()
 
 
-# NeuralBypass: bypass neuronal no invasivo para lesiones medulares
+# bypass neuronal no invasivo para lesiones medulares
 
 **Reconocimiento de intención (EEG) + estimulación muscular (FES/tSCS). Sin cirugía cerebral. Sin baterías externas.**
 
